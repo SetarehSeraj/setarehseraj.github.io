@@ -19,9 +19,12 @@ author: Setareh Seraj
 ###############################################
 
 navbar-links:
+  Home: "home"
   Research: "research"
   Teaching: "teaching"
-  CV: "assets/SetarehSeraj_CV.pdf"
+  CV: "assets/SetarehSeraj_CV_Aug26_V2.pdf"
+  More about me: "more about me"
+
 
 ################
 # --- Logo --- #
@@ -41,7 +44,7 @@ social-network-links:
   email: "setareh.seraj@baruch.cuny.edu"
   linkedin: "setarehseraj"
   github: "SetarehSeraj"
-#  google-scholar: "YOUR_SCHOLAR_ID"    # add when you create your Scholar profile
+#  google-scholar: "Setareh Seraj"    # add when you create your Scholar profile
 #  ORCID: "0000-0000-0000-0000"         # optional, if you ever register one
 
 # RSS feed description (the feed lives at /feed.xml)
