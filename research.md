@@ -5,7 +5,7 @@ title: Research
 
 **When Universities Go Online: Employment Consequences of IT Master's Program Adoption for Bachelor's Graduates**
 
-Setareh Seraj, Shuting (Ada) Wang, Chengxin Cao & Y. Luo · *Job Market Paper — in preparation for submission to MIS Quarterly*
+Setareh Seraj, Shuting (Ada) Wang, Chengxin Cao & Yuxiao Luo · *Job Market Paper — in preparation for submission to MIS Quarterly*
 
 More than half of U.S. graduate students now take at least one course online,
 and universities have raced to launch online IT master's programs. This paper
