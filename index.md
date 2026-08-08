@@ -4,10 +4,7 @@ title: Hi, I'm Setareh
 subtitle: Ph.D. Candidate in Information Systems at Baruch College, CUNY
 ---
 
-<!-- PHOTO: after you upload a square headshot to assets/img/headshot.jpg,
-     delete the arrow lines above and below the img tag to show it:
-<img src="/assets/img/headshot.jpg" alt="Setareh Seraj" style="width:200px; border-radius:6px; float:right; margin:0 0 15px 20px;" />
--->
+<img src="/assets/img/headshot.png" alt="Setareh Seraj" style="width:200px; border-radius:6px; float:right; margin:0 0 15px 20px;" />
 
 I am a Ph.D. candidate in Computer Information Systems at the Zicklin School of
 Business, Baruch College (CUNY), advised by Dr. Shuting (Ada) Wang. **I am on
@@ -18,9 +15,8 @@ digital behavior and labor-market outcomes — from what a university's move int
 online degrees means for the employment of its own graduates, to how economic
 volatility changes the way people read online, to how the public perceives
 firms' environmental commitments. I work with large-scale platform and
-institutional data, and I specialize in causal inference with panel
-econometrics and quasi-experimental designs, combined with theory-driven text
-mining and NLP (Stata, R, Python).
+institutional data, and I specialize in causal inference with advanced
+econometrics and quasi-experimental designs.
 
 I also [teach](/teaching): 58 sections and roughly 1,660 students as instructor
 of record since 2022, recognized with the 2026 Zicklin School of Business
