@@ -1,0 +1,9 @@
+/* Slightly smaller, tighter type across the site */
+body {
+  font-size: 16px;
+}
+
+.page-heading h1,
+.post-heading h1 {
+  font-size: 38px;
+}
