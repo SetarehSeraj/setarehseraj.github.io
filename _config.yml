@@ -19,11 +19,11 @@ author: Setareh Seraj
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "/"
   Research: "research"
   Teaching: "teaching"
-  CV: "assets/SetarehSeraj_CV_Aug26_V2.pdf"
-  More about me: "more about me"
+  CV: "assets/SetarehSeraj_CV.pdf"
+  More about me: "aboutme"
 
 
 ################
