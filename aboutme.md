@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: More about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My path to information systems research was not a straight line. I trained as
+a civil engineer at Amirkabir University of Technology in Tehran, spent a
+semester as a research assistant at EPFL in Lausanne working on life-cycle
+assessment, and then moved into applied analytics — running user-acquisition
+experiments for an early-stage platform and building market-entry and strategy
+analyses for consulting clients — before starting my Ph.D. at Baruch College
+in 2021. That mix is why my research sits where economics, technology, and
+human behavior meet.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Outside of research and teaching, you'll find me practicing Kundalini yoga and
+meditation, dancing, making art, or planning events.
