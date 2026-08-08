@@ -89,6 +89,9 @@ navbar-var-length: false
 # Keywords to associate with your website, for SEO
 keywords: "Setareh Seraj, information systems, Baruch College, CUNY, Zicklin School of Business, academic job market, econometrics, text mining"
 
+site-css:
+  - "/assets/css/custom-styles.css"
+  
 ######################################
 # --- Colours / background image --- #
 ######################################
