@@ -4,7 +4,7 @@ title: Hi, I'm Setareh
 subtitle: Ph.D. Candidate in Information Systems at Baruch College, CUNY
 ---
 
-<img src="/assets/img/Headshot.png" alt="Setareh Seraj" style="width:200px; border-radius:6px; float:right; margin:0 0 15px 20px;" />
+<img src="/Headshot.png" alt="Setareh Seraj" style="width:200px; border-radius:6px; float:right; margin:0 0 15px 20px;" />
 
 I am a Ph.D. candidate in Computer Information Systems at the Zicklin School of
 Business, Baruch College (CUNY), advised by Dr. Shuting (Ada) Wang. **I am on
