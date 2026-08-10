@@ -25,7 +25,7 @@ prevails.
 
 **Economic Volatility and the Dynamics of Online Reading Behavior**
 
-Setareh Seraj · *Under review at Internet Research*
+Setareh Seraj · *Under review at International Journal of Information Management*
 
 Conference presentations: CIST 2025 (Atlanta) · WISE 2025 (Nashville)
 
