@@ -25,7 +25,7 @@ prevails.
 
 **Economic Volatility and the Dynamics of Online Reading Behavior**
 
-Setareh Seraj · *Under review at International Journal of Information Management*
+Setareh Seraj · *Under review at Internet Research Journal*
 
 Conference presentations: CIST 2025 (Atlanta) · WISE 2025 (Nashville)
 
@@ -42,7 +42,7 @@ uncertainty.
 
 **An Empirical Investigation of Green Brand Reputation Using Social Media**
 
-Setareh Seraj · *Under review at Information Systems Education Journal*
+Setareh Seraj · *Under review at Journal of Information Systems Applied Research and Analytics (JISARA)*
 
 Most brand-reputation measures rely on periodic surveys and miss the
 environmental dimension of reputation entirely. Building on green brand equity
