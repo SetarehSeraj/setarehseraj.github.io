@@ -11,14 +11,14 @@ Business, Baruch College (CUNY), advised by Dr. Shuting (Ada) Wang. **I am on
 the 2026–27 academic job market** and expect to graduate in June 2027.
 
 My [research](/research) studies how economic and technological forces shape
-digital behavior and labor-market outcomes — from what a university's move into
+digital behavior and labor-market outcomes. From what a university's move into
 online degrees means for the employment of its own graduates, to how economic
 volatility changes the way people read online, to how the public perceives
 firms' environmental commitments. I work with large-scale platform and
 institutional data, and I specialize in causal inference with advanced
 econometrics and quasi-experimental designs.
 
-I also [teach](/teaching): 58 sections and roughly 1,660 students as instructor
+I also [teach](/teaching): 50 sections and roughly 1,400 students as instructor
 of record since 2022, recognized with the 2026 Zicklin School of Business
 Dean's Teaching Award.
 
