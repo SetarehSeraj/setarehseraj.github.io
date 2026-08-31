@@ -85,7 +85,7 @@ Teaching case:
 
 
 <details>
-<summary style="color:#007bff; cursor:pointer;">&#9660; My Story</summary>
+<summary style="color:#007bff; cursor:pointer;">&#9660; My Story: Setareh's way</summary>
 <div style="margin-top:1em;">
 
 <p>I owe most of my success as a teacher to a single factor: luck. I was lucky to find out early what I love to do for a living and who I want to be when I grow up: a wonderful teacher, hearing from my students, "Best professor I have ever had" (BUS 2000). One reason I love teaching is that I love unlearning; Alvin Toffler predicted that the illiterate of the twenty-first century would be those who cannot learn, unlearn, and relearn, and a classroom is the best place I know to practice unlearning together, to train ourselves to raise questions that have no answer yet and build the habit of questioning our way closer to the correct answer. In the age of generative AI, when answers are cheap and good questions are not, I find that habit more valuable than ever.</p>
