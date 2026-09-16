@@ -64,3 +64,6 @@ Seraj, S., Nikravan, M., Ramezanianpour, A. A., & Zendehdel, P. (2020).
 Evaluation of the application of municipal solid waste incinerator (MSWI) ash
 in civil engineering using a sustainability approach. *Detritus*, 9, 113–124.
 [doi:10.31025/2611-4135/2020.13951](https://doi.org/10.31025/2611-4135/2020.13951)
+
+
+Conference presentations: 16th International Waste Management and Landfill Symposium, Sardinia, Italy.
