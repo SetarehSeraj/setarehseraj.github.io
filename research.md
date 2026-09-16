@@ -5,7 +5,7 @@ title: Research
 
 **When Universities Go Online: Employment Consequences of IT Master's Program Adoption for Bachelor's Graduates**
 
-Setareh Seraj, Shuting (Ada) Wang, Chengxin Cao & Yuxiao Luo · *Job Market Paper — in preparation for submission to MIS Quarterly*
+Setareh Seraj, Shuting (Ada) Wang, Chengxin Cao & Yuxiao Luo · *Job Market Paper — in preparation for submission to ISR*
 
 More than half of U.S. graduate students now take at least one course online,
 and universities have raced to launch online IT master's programs. This paper
@@ -27,7 +27,7 @@ prevails.
 
 Setareh Seraj · *Under review at Internet Research Journal*
 
-Conference presentations: CIST 2025 (Atlanta) · WISE 2025 (Nashville)
+Conference presentations: CIST 2025 (Atlanta, GA) · WISE 2025 (Nashville, TN)
 
 Using large-scale user-level data from an online reading platform, this study
 examines how economic volatility reshapes a digital behavior that demands
@@ -42,7 +42,9 @@ uncertainty.
 
 **An Empirical Investigation of Green Brand Reputation Using Social Media**
 
-Setareh Seraj · *Under review at Journal of Information Systems Applied Research and Analytics (JISARA)*
+Setareh Seraj · *Under review at Information Systems Frontiers*
+
+Conference presentations: An earlier version accepted for ISCAP 2026 (Asheville, NC) 
 
 Most brand-reputation measures rely on periodic surveys and miss the
 environmental dimension of reputation entirely. Building on green brand equity
