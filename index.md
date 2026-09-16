@@ -23,5 +23,4 @@ of record since 2022, recognized with the 2026 Zicklin School of Business
 Dean's Teaching Award.
 
 You can reach me at
-[setareh.seraj@baruch.cuny.edu](mailto:setareh.seraj@baruch.cuny.edu), and my
-full CV is [here](/assets/SetarehSeraj_CV.pdf).
+[setareh.seraj@baruch.cuny.edu](mailto:setareh.seraj@baruch.cuny.edu).
